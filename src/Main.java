@@ -4,5 +4,7 @@ public class Main {
 
         //ini salah commit
 
+        // ini juga salah . tapi kita squast
+
     }
 }
